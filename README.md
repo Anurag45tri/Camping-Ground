@@ -5,4 +5,4 @@ The Code File are in master branch
 
 
 #Step 1
----- To make this Campground you need to install node modules.
+---- To make this Campground work you need to install node modules.
